@@ -1,0 +1,41 @@
+400 Bad Request
+401 Unauthorized
+403 Forbidden
+404 Not Found
+405 Method Not Allowed
+408 Request Timeout
+500 Internal Server Error
+501 Not Implemented
+502 Bad Gateway
+503 Service Unavailable
+504 Gateway Timeout
+Access denied
+Error occurred
+Invalid request
+Page not found
+Request failed
+Server error
+Service temporarily unavailable
+The requested URL was not found
+Unauthorized access
+You don't have permission
+SQL syntax error
+Query failed
+Invalid query
+Unknown column
+MySql Error
+Oracle Error
+Database error
+ODBC Error
+PHP Warning
+PHP Fatal error
+PHP Parse error
+ASP.NET Error
+Java Exception
+CGI Error
+Python Error
+Stack trace
+Traceback
+Fatal exception
+Unhandled exception
+Runtime error

@@ -72,11 +72,11 @@ go get -u github.com/valyala/fasthttp
 ```
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) for open issues or to open a new issue.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Abo5/WebFuzzGoRuby/issues) for open issues or to open a new issue.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Developed with ❤️ by [ Maven ]
+Developed with ❤️ by Maven 
